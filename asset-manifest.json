@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-3D-model/static/css/main.296d083c.chunk.css",
+    "main.js": "/react-3D-model/static/js/main.480ac64d.chunk.js",
+    "main.js.map": "/react-3D-model/static/js/main.480ac64d.chunk.js.map",
+    "runtime-main.js": "/react-3D-model/static/js/runtime-main.fafbeec7.js",
+    "runtime-main.js.map": "/react-3D-model/static/js/runtime-main.fafbeec7.js.map",
+    "static/js/2.8cd32b59.chunk.js": "/react-3D-model/static/js/2.8cd32b59.chunk.js",
+    "static/js/2.8cd32b59.chunk.js.map": "/react-3D-model/static/js/2.8cd32b59.chunk.js.map",
+    "static/js/3.f9e5fbbd.chunk.js": "/react-3D-model/static/js/3.f9e5fbbd.chunk.js",
+    "static/js/3.f9e5fbbd.chunk.js.map": "/react-3D-model/static/js/3.f9e5fbbd.chunk.js.map",
+    "static/js/4.ddb6abbd.chunk.js": "/react-3D-model/static/js/4.ddb6abbd.chunk.js",
+    "static/js/4.ddb6abbd.chunk.js.map": "/react-3D-model/static/js/4.ddb6abbd.chunk.js.map",
+    "static/js/5.f14cb77e.chunk.js": "/react-3D-model/static/js/5.f14cb77e.chunk.js",
+    "static/js/5.f14cb77e.chunk.js.map": "/react-3D-model/static/js/5.f14cb77e.chunk.js.map",
+    "static/js/6.518fb1f4.chunk.js": "/react-3D-model/static/js/6.518fb1f4.chunk.js",
+    "static/js/6.518fb1f4.chunk.js.map": "/react-3D-model/static/js/6.518fb1f4.chunk.js.map",
+    "index.html": "/react-3D-model/index.html",
+    "static/css/main.296d083c.chunk.css.map": "/react-3D-model/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.8cd32b59.chunk.js.LICENSE.txt": "/react-3D-model/static/js/2.8cd32b59.chunk.js.LICENSE.txt",
+    "static/js/5.f14cb77e.chunk.js.LICENSE.txt": "/react-3D-model/static/js/5.f14cb77e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafbeec7.js",
+    "static/js/2.8cd32b59.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.480ac64d.chunk.js"
+  ]
+}

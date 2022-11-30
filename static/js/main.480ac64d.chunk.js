@@ -1,0 +1,2 @@
+(this["webpackJsonp3-d-text-blue-copy"]=this["webpackJsonp3-d-text-blue-copy"]||[]).push([[0],{47:function(e,t,c){},53:function(e,t,c){"use strict";c.r(t);var n=c(16),s=c(33),o=(c(47),c(34)),r=c(21);function i(){return Object(r.jsx)(o.a,{scene:"https://prod.spline.design/TEFWA6iW7QkVltVa/scene.splinecode"})}var p=document.getElementById("root");Object(s.createRoot)(p).render(Object(r.jsx)(n.StrictMode,{children:Object(r.jsx)(i,{})}))}},[[53,1,2]]]);
+//# sourceMappingURL=main.480ac64d.chunk.js.map
